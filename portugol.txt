@@ -1,1 +1,0 @@
-portugol é uma pseudo-linguagem
