@@ -13,21 +13,22 @@ programa
 				exercicio01()
 			pare
 			caso 2:
-				exercicio01()
+				exercicio02()
 			pare
 			caso 3:
-				exercicio01()
+				exercicio03()
 			pare
 			caso 4:
-				exercicio01()
+				exercicio04()
 			pare
 			caso 5:
-				exercicio01()
+				exercicio05()
 			pare
 		}
 	}
 	
-	funcao exercicio01() {
+	funcao 
+exercicio01() {
 		inteiro numero
 
 		

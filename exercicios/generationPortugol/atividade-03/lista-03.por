@@ -13,22 +13,22 @@ programa
 				exercicio01()
 			pare
 			caso 2:
-				exercicio01()
+				exercicio02()
 			pare
 			caso 3:
-				exercicio01()
+				exercicio03()
 			pare
 			caso 4:
-				exercicio01()
+				exercicio04()
 			pare
 			caso 5:
-				exercicio01()
+				exercicio05()
 			pare
 			caso 6:
-				exercicio01()
+				exercicio06()
 			pare
 			caso 7:
-				exercicio01()
+				exercicio07()
 			pare
 			caso contrario:
 				escreva("Entrada inválida")
