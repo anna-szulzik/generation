@@ -9,21 +9,12 @@ public class atividade05 {
         System.out.println("Escolha o exercício (1 a 4)");
         exercicio = sc.nextInt();
 
-        switch(exercicio) {
-            case 1:
-                exercicio1();
-                break;
-            case 2:
-                exercicio2();
-                break;
-            case 3:
-                exercicio3();
-                break;
-            case 4:
-                exercicio4();
-                break;
-            default:
-                System.out.println("Escolha inválida");
+        switch (exercicio) {
+            case 1 -> exercicio1();
+            case 2 -> exercicio2();
+            case 3 -> exercicio3();
+            case 4 -> exercicio4();
+            default -> System.out.println("Escolha inválida");
         }
     }
     public static void exercicio1() {
